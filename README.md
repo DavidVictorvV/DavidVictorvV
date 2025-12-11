@@ -6,6 +6,8 @@
 ---
 
 ## ▌│█║▌║▌║ **HERO GIF** ║▌║▌║█│▌
+<img width="480" height="476" alt="image" src="https://github.com/user-attachments/assets/f38044e9-3f26-4310-8167-912feec98821" />
+
 *(Replace with a direct GIF URL if you want animation in README)*
 
 [Hero GIF – Funny Star Wars](https://tenor.com/search/funny-star-wars-gifs)
