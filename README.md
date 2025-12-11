@@ -63,15 +63,15 @@ Peak productivity through *vibes*.
 
 **Main Stats Card**
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=DavidVictorvV&show_icons=true&theme=tokyonight&hide_border=true)
 
 **Top Languages**
 
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidVictorvV&layout=compact&theme=tokyonight&hide_border=true)
 
 **Streaks**
 
-![Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
+![Streak](https://streak-stats.demolab.com/?user=DavidVictorvV&theme=tokyonight&hide_border=true)
 
 ---
 
