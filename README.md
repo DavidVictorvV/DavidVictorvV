@@ -1,4 +1,4 @@
-# 🌑 Hi there, I’m **David** — Game Dev, Web Dev & Full-Stack Tinkerer 🎮⚡
+# 🌑 Hi there, I'm **David** — Game Dev, Web Dev & Full-Stack Tinkerer 🎮⚡
 
 > A gamer making games for gamers.  
 > Unity enjoyer, multiplayer experimenter, React dev, full-stack builder, and occasional late-night chaos coder.
@@ -13,25 +13,25 @@
 - Obsessed with **game feel**, polish, juice, timing, feedback loops
 - Enthusiastic gamer creating games **for gamers**
 
-<img width="498" height="280" alt="image" src="https://github.com/user-attachments/assets/42f0b01d-512b-47e0-86c9-969af7576906" />
+<img src="https://media1.tenor.com/m/_soOKpr7c9IAAAAd/cs-go-counter-strike.gif" width="498" />
 
-https://tenor.com/bg1Ir.gif
 ---
 
 ══════════════════════════════════════
 
 ## 🔫 Shooter Game Lover + ⭐ Star Wars Enjoyer
 
-I’ve played way too many shooters.  
-I’ve watched way too much Star Wars.  
+I've played way too many shooters.  
+I've watched way too much Star Wars.  
 I regret **none** of it.
 
 - Big fan of tactical shooters, arcade shooters, and anything with recoil that *feels* good  
 - Valorant peak: **Ascendant 2** (yes, sometimes I whiff)  
 - Star Wars enthusiast — from the classics to the chaos of the animated series  
-- My ideal evening = coding → gaming → movie → gaming → coding 
+- My ideal evening = coding → gaming → movie → gaming → coding
 
-<div class="tenor-gif-embed" data-postid="1604992420762782200" data-share-method="host" data-aspect-ratio="0.758621" data-width="100%"><a href="https://tenor.com/view/fortnite-first-order-stormtrooper-respect-the-peace-peace-sign-peace-gif-1604992420762782200">Fortnite First Order Stormtrooper GIF</a>from <a href="https://tenor.com/search/fortnite-gifs">Fortnite GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img src="https://media1.tenor.com/m/FkYUGmLCifgAAAAd/fortnite-first-order-stormtrooper.gif" width="300" />
+
 ---
 
 ══════════════════════════════════════
@@ -62,12 +62,15 @@ Peak productivity through *vibes*.
 ## 📊 GitHub Stats (Dark Mode)
 
 **Main Stats Card**
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
 
 **Top Languages**
+
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
 
 **Streaks**
+
 ![Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
 
 ---
@@ -83,7 +86,6 @@ Peak productivity through *vibes*.
 
 ---
 
-## 📫 Let’s Connect
+## 📫 Let's Connect
 
 Always open for collabs, experiments, game dev chaos, or weird ideas.
-
