@@ -5,15 +5,6 @@
 
 ---
 
-## ▌│█║▌║▌║ **HERO GIF** ║▌║▌║█│▌
-<img width="480" height="476" alt="image" src="https://github.com/user-attachments/assets/f38044e9-3f26-4310-8167-912feec98821" />
-
-*(Replace with a direct GIF URL if you want animation in README)*
-
-[Hero GIF – Funny Star Wars](https://tenor.com/search/funny-star-wars-gifs)
-
----
-
 ## 🎮 Game Developer (Unity)
 
 - Unity specialist → mostly **mobile**, now shifting into **PC**
@@ -21,6 +12,8 @@
 - Built many minigames: drifting, endless runners, shooters, weird prototypes
 - Obsessed with **game feel**, polish, juice, timing, feedback loops
 - Enthusiastic gamer creating games **for gamers**
+
+<img width="498" height="280" alt="image" src="https://github.com/user-attachments/assets/42f0b01d-512b-47e0-86c9-969af7576906" />
 
 ---
 
@@ -35,19 +28,9 @@ I regret **none** of it.
 - Big fan of tactical shooters, arcade shooters, and anything with recoil that *feels* good  
 - Valorant peak: **Ascendant 2** (yes, sometimes I whiff)  
 - Star Wars enthusiast — from the classics to the chaos of the animated series  
-- My ideal evening = coding → gaming → lightsaber noises at 2AM
+- My ideal evening = coding → gaming → movie → gaming → coding 
 
-**GIF:**  
-[Funny Star Wars GIF](https://tenor.com/search/funny-star-wars-gifs)
-
----
-
-══════════════════════════════════════
-
-## 🕹️ Random Chaos GIF Drop
-*(Inserted randomly, as requested)*
-
-[Funny Shooter GIF](https://tenor.com/search/funny-shooter-gifs)
+<img width="480" height="476" alt="image" src="https://github.com/user-attachments/assets/f38044e9-3f26-4310-8167-912feec98821" />
 
 ---
 
