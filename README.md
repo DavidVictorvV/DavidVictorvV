@@ -59,23 +59,6 @@ Peak productivity through *vibes*.
 
 ══════════════════════════════════════
 
-## 📊 GitHub Stats (Dark Mode)
-
-**Main Stats Card**
-
-![Stats](https://github-readme-stats.vercel.app/api?username=DavidVictorvV&show_icons=true&theme=tokyonight&hide_border=true)
-
-**Top Languages**
-
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidVictorvV&layout=compact&theme=tokyonight&hide_border=true)
-
-**Streaks**
-
-![Streak](https://streak-stats.demolab.com/?user=DavidVictorvV&theme=tokyonight&hide_border=true)
-
----
-
-══════════════════════════════════════
 
 ## 🎯 Currently Working On
 
