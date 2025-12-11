@@ -15,6 +15,7 @@
 
 <img width="498" height="280" alt="image" src="https://github.com/user-attachments/assets/42f0b01d-512b-47e0-86c9-969af7576906" />
 
+https://tenor.com/bg1Ir.gif
 ---
 
 ══════════════════════════════════════
@@ -30,8 +31,7 @@ I regret **none** of it.
 - Star Wars enthusiast — from the classics to the chaos of the animated series  
 - My ideal evening = coding → gaming → movie → gaming → coding 
 
-<img width="480" height="476" alt="image" src="https://github.com/user-attachments/assets/f38044e9-3f26-4310-8167-912feec98821" />
-
+<div class="tenor-gif-embed" data-postid="1604992420762782200" data-share-method="host" data-aspect-ratio="0.758621" data-width="100%"><a href="https://tenor.com/view/fortnite-first-order-stormtrooper-respect-the-peace-peace-sign-peace-gif-1604992420762782200">Fortnite First Order Stormtrooper GIF</a>from <a href="https://tenor.com/search/fortnite-gifs">Fortnite GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 ---
 
 ══════════════════════════════════════
