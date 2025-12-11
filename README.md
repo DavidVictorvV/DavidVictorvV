@@ -1,72 +1,104 @@
-🌑 Hi there, I’m David — Game Dev, Web Dev & Full-Stack Tinkerer 🎮⚡
-                                                         
-$$$$$$$\                      $$\       $$\ 
-$$  __$$\                     \__|      $$ |
-$$ |  $$ | $$$$$$\ $$\    $$\ $$\  $$$$$$$ |
-$$ |  $$ | \____$$\\$$\  $$  |$$ |$$  __$$ |
-$$ |  $$ | $$$$$$$ |\$$\$$  / $$ |$$ /  $$ |
-$$ |  $$ |$$  __$$ | \$$$  /  $$ |$$ |  $$ |
-$$$$$$$  |\$$$$$$$ |  \$  /   $$ |\$$$$$$$ |
-\_______/  \_______|   \_/    \__| \_______|
-                                            
-                                            
+# 🌑 Hi there, I’m **David** — Game Dev, Web Dev & Full-Stack Tinkerer 🎮⚡
 
-                                            
-                                            
+> A gamer making games for gamers.  
+> Unity enjoyer, multiplayer experimenter, React dev, full-stack builder, and occasional late-night chaos coder.
 
-🎮 Game Developer (Unity)
+---
 
-Building mobile-dominant games, shifting into PC experiences
+## ▌│█║▌║▌║ **HERO GIF** ║▌║▌║█│▌
+*(Replace with a direct GIF URL if you want animation in README)*
 
-Worked on all kinds of minigames: drifting, endless runners, shooters & more
+[Hero GIF – Funny Star Wars](https://tenor.com/search/funny-star-wars-gifs)
 
-Multiplayer enjoyer: Networking with Fusion 2 & FishNet
+---
 
-I love crafting gameplay that feels smooth, responsive, and polished for players like me
+## 🎮 Game Developer (Unity)
 
-Gamer making games for gamers 💥
+- Unity specialist → mostly **mobile**, now shifting into **PC**
+- Multiplayer networking using **Fusion 2** and **FishNet**
+- Built many minigames: drifting, endless runners, shooters, weird prototypes
+- Obsessed with **game feel**, polish, juice, timing, feedback loops
+- Enthusiastic gamer creating games **for gamers**
 
-🕸️ Web Dev / Full-Stack
+---
 
-React enjoyer ⚛️ → UI/UX, interactivity, animations
+══════════════════════════════════════
 
-Node.js, Firebase, backend routing, auth, APIs
+## 🔫 Shooter Game Lover + ⭐ Star Wars Enjoyer
 
-Can go from sketch → full product pretty fast
+I’ve played way too many shooters.  
+I’ve watched way too much Star Wars.  
+I regret **none** of it.
 
-Recently experimenting with vibe coding → building stuff using Claude with barely any input, just to see where creativity + chaos leads 😄
+- Big fan of tactical shooters, arcade shooters, and anything with recoil that *feels* good  
+- Valorant peak: **Ascendant 2** (yes, sometimes I whiff)  
+- Star Wars enthusiast — from the classics to the chaos of the animated series  
+- My ideal evening = coding → gaming → lightsaber noises at 2AM
 
-✨ What I’m About
+**GIF:**  
+[Funny Star Wars GIF](https://tenor.com/search/funny-star-wars-gifs)
 
-🎧 Usually coding at night like it’s a side quest
+---
 
-🏹 Ascendant 2 peak Valorant (yes, I whiff sometimes)
+══════════════════════════════════════
 
-🔥 Enthusiastic, experimental, always shipping something
+## 🕹️ Random Chaos GIF Drop
+*(Inserted randomly, as requested)*
 
-🚀 Obsessed with getting better at game feel & player-centric design
+[Funny Shooter GIF](https://tenor.com/search/funny-shooter-gifs)
 
-🛠️ Tech I Use
+---
 
-Game Dev:
-Unity • C# • Fusion 2 • FishNet • Mobile Optimization • Level Design
+══════════════════════════════════════
 
-Web / Full-Stack:
-React • Node.js • Firebase • Express • REST APIs • Tailwind • MongoDB
+## 💻 Web Dev & Full-Stack
 
-Tools & Workflow:
-Git • CI/CD • Figma • Notion • Terminal enjoyer
+- React (UI/UX, animations, component architecture)
+- Node.js, Firebase, Express, routing, auth, APIs
+- Build stuff from scratch → deploy → refactor again at 2AM for no reason
+- When needed: will brute-force CSS until it works
 
-🚧 Currently Working On
+---
 
-PC-ready Unity prototypes
+══════════════════════════════════════
 
-New experiments mixing AI-generated vibes + real dev work
+## 🤖 Vibe Coding (AI-Assisted Chaos)
 
-More multiplayer systems and game feel polish
+Sometimes I give Claude the *bare minimum* prompt  
+→ watch the universe generate something unexpected  
+→ then I make it real.
 
-📫 Let’s Connect
+Peak productivity through *vibes*.
 
-Always open for game dev collabs, experiments, or weird side projects
+---
 
-If you're a gamer, a dev, or both — we’ll probably vibe 🔋
+══════════════════════════════════════
+
+## 📊 GitHub Stats (Dark Mode)
+
+**Main Stats Card**
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+
+**Top Languages**
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+
+**Streaks**
+![Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
+
+---
+
+══════════════════════════════════════
+
+## 🎯 Currently Working On
+
+- PC-ready Unity prototypes  
+- Multiplayer experiments & movement design  
+- Vibe-coded websites  
+- Collecting unfinished side projects like Infinity Stones
+
+---
+
+## 📫 Let’s Connect
+
+Always open for collabs, experiments, game dev chaos, or weird ideas.
+
